@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">PokemonQuiz</string>
+    <string name="title">このポケモン\nなーんだ</string>
+    <string name="select_generation">世代選択</string>
+    <string name="whoisthat">なーんだ？</string>
+    <string name="question_count">%d問目</string>
+    <string name="your_answer">あなたの回答</string>
+    <string name="correct_answer">答え</string>
+    <string name="to_title">タイトルに戻る</string>
+    <string name="timer">%d</string>
+    <string name="correct">正解</string>
+    <string name="incorrect">不正解</string>
+    <string name="answer_is">正解は%sでした！</string>
+    <string name="to_next">次へ</string>
+    <string name="great_1">お見事！</string>
+    <string name="great_2">素晴らしい！</string>
+    <string name="great_3">ナイス！</string>
+    <string name="great_4">あっぱれ！</string>
+    <string name="great_5">やった！</string>
+    <string name="easy">イージー</string>
+    <string name="hard">ハード</string>
+    <string name="answer">回答</string>
+    <string name="input_pokemon">ポケモンの名前を入力</string>
+    <string name="mode">%sモード</string>
+    <string name="score">スコア：%d/10</string>
 </resources>
